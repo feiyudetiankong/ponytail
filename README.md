@@ -1,3 +1,5 @@
+> 📄 简体中文：**[README.zh-CN.md](README.zh-CN.md)** · English: [README.md](README.md)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
